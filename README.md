@@ -26,3 +26,10 @@ This Shiny App is for visulizating WHO data about <b>Mortality Rate and Life exp
 The data set has been taken from WHO website. The dataset contains basic information [Year, Country,AgeGroup,Gender, Numerical Data collected]
 
 You can filter and view desired data by using control panel located on the left side. Filtered dataset can be downloaded using data tab.
+
+Part 1: Link for the Shiny App for the project is
+https://keen23.shinyapps.io/DataProd-MortalityStatistics/
+Code for server.R and ui.r is on github
+
+
+Part 2: Slidify presentaion is also in slidify directory.
