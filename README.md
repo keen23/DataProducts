@@ -18,9 +18,10 @@ Your presentation pushed to github
 A link to your github presentation pasted into the text box below
 Your presentation must satisfy the following
 ____________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________
 
 
-This Shiny App is for visulizating WHO data about Mortality Rate and Life expectancy in India.
+This Shiny App is for visulizating WHO data about <b>Mortality Rate and Life expectancy in India.</b>
 
 The data set has been taken from WHO website. The dataset contains basic information [Year, Country,AgeGroup,Gender, Numerical Data collected]
 
